@@ -1,0 +1,13 @@
+C:\Users\najwa\Desktop\Done Api\TrafficLights\TrafficLights\obj\Debug\TrafficLights.vbproj.AssemblyReference.cache
+C:\Users\najwa\Desktop\Done Api\TrafficLights\TrafficLights\obj\Debug\TrafficLights.vbproj.SuggestedBindingRedirects.cache
+C:\Users\najwa\Desktop\Done Api\TrafficLights\TrafficLights\obj\Debug\TrafficLights.Form1.resources
+C:\Users\najwa\Desktop\Done Api\TrafficLights\TrafficLights\obj\Debug\TrafficLights.Resources.resources
+C:\Users\najwa\Desktop\Done Api\TrafficLights\TrafficLights\obj\Debug\TrafficLights.vbproj.GenerateResource.cache
+C:\Users\najwa\Desktop\Done Api\TrafficLights\TrafficLights\obj\Debug\TrafficLights.vbproj.CoreCompileInputs.cache
+C:\Users\najwa\Desktop\Done Api\TrafficLights\TrafficLights\bin\Debug\TrafficLights.exe.config
+C:\Users\najwa\Desktop\Done Api\TrafficLights\TrafficLights\bin\Debug\TrafficLights.exe
+C:\Users\najwa\Desktop\Done Api\TrafficLights\TrafficLights\bin\Debug\TrafficLights.pdb
+C:\Users\najwa\Desktop\Done Api\TrafficLights\TrafficLights\bin\Debug\TrafficLights.xml
+C:\Users\najwa\Desktop\Done Api\TrafficLights\TrafficLights\obj\Debug\TrafficLights.exe
+C:\Users\najwa\Desktop\Done Api\TrafficLights\TrafficLights\obj\Debug\TrafficLights.xml
+C:\Users\najwa\Desktop\Done Api\TrafficLights\TrafficLights\obj\Debug\TrafficLights.pdb
